@@ -1,1 +1,1 @@
-module.exports = require('react/lib/update');
+module.exports = require('react').addons.update;
