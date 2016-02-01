@@ -5,7 +5,7 @@
     "dependencies": {
         "react": "^0.14.6"
     },
-    "version": "0.14.6",
+    "version": "0.14.7",
     "description": "This package provides the React updates add-on.",
     "tag": "master",
     "reposType": "npm"
